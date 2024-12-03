@@ -578,4 +578,12 @@ form{
       width: 100%;
       background-color: black;
    }
+   .headerPage{
+      font-size: 15px;
+      width: 100%;
+   }
+   .main_section, .main_section2, .section-3, .text_rating, h1, h2, p, .question_section1, .estate-section, .home_section, .about_section, .properties_section, .service_section, .contact_section, .fs1{
+      width: 100%;
+      font-size: 15px;
+   }
 }

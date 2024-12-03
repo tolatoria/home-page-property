@@ -7,10 +7,11 @@
 }
 body{
     background-color:black;
-    width: 100%;
+    width: 100vw;
     height: 100vh;
     color: white;
     box-sizing: border-box;
+    overflow-x: hidden;
 }
 .headerPage{
     display: flex;

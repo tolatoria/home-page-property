@@ -23,7 +23,7 @@ body{
 .text{
     background-image: url(/image/dark.jpg);
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-around;
     align-items: center;
     height: 10vh;
     width: 100%;
@@ -47,7 +47,7 @@ body{
     color: white;
     width: 40px;
     height: 40px;
-    margin-left: 40rem;
+    margin-left: 60rem;
 }
 .b2:hover{
     background-color: grey;
